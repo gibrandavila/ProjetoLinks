@@ -10,16 +10,16 @@
   --stroke-color: rgba(255, 255, 255, 0.5);
   --surface-color-hover: rgba(255, 255, 255, 0.05);
   --social-link-hover: rgba(255, 255, 255, 0.2);
-  --light-button: url(/assets/moon-stars.svg);
+  --light-button: url(./assets/moon-stars.svg);
 }
 .light {
   --text-color: black;
-  --bg-url: url(assets/bg-mobile-light.jpg);
+  --bg-url: url(./assets/bg-mobile-light.jpg);
   --stroke-color: rgba(0, 0, 0, 0.5);
   --surface-color: rgba(0, 0, 0, 0.03);
   --surface-color-hover: rgba(0, 0, 0, 0.2);
   --social-link-hover: rgba(0, 0, 0, 0.1);
-  --light-button: url(/assets/sun.svg);
+  --light-button: url(./assets/sun.svg);
 }
 
 body {
