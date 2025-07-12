@@ -89,7 +89,7 @@ by @gibran.davila <br> <br>
 <!-- CONTACT -->
 ## Contact
 
-Gibran Miranda Rodrigues D'avila- gibran.davila.pesquisador@gmail.com
+Gibran Miranda Rodrigues D'avila- gibran.davila.dev@gmail.com
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
