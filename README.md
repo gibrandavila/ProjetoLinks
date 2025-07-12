@@ -65,7 +65,7 @@ Leads to a collection or list of your academic publications, which may include j
 	3.	FGV Award <br>
 Highlights an academic achievement or institutional recognition received at Fundação Getulio Vargas (FGV), adding credibility and distinction to your profile.
 	4.	Most Recent Publication <br>
-Direct link to your latest scholarly output, allowing viewers to quickly access the most current contribution to your field.<br><br>
+Direct link to your latest scholarly output, allowing viewers to quickly access the most current contribution to your field.<br>
 
 Each button is styled consistently for visual harmony and includes a hover effect to indicate interactivity. <br><br>
 
